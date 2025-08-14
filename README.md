@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Ken-23!
 
-<!--
-**Ken-23/Ken-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Helping businesses earn more through tech 🚀**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+I'm a passionate **Full-Stack Developer** who thrives on building scalable, impactful solutions. My journey spans backend, frontend, and cloud, with a knack for turning business challenges into innovative products.
+
+---
+
+## 🛠️ Top Skills
+
+- **Backend:** NodeJS, NestJS, ExpressJS, MySQL, MongoDB, Kafka
+- **Frontend:** React, NextJS
+- **Databases:** MySQL, MongoDB
+- **Messaging:** Kafka
+
+---
+
+## 🚩 Flagship Project
+
+### Inventory Module @ Aspyne
+- Led development of an advanced inventory module.
+- Integrated **AI-powered image processing** for smart item recognition.
+- Helped streamline operations and unlock new business value.
+
+---
+
+## 🎮 Interests
+
+- Fun Movies 🍿
+- Gadgets 🤖
+- Gaming 🎮
+- Hiking 🥾
+
+---
+
+<!-- Social links (add yours if you want!) -->
+<!-- [LinkedIn](#) • [Twitter](#) • [Portfolio](#) -->
+
+---
+
+> _"Helping businesses earn more through tech."_  
+> Let's connect, collaborate, and create something awesome!
