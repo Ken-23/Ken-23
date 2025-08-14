@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ken-23!
+# 👋 Hi, I'm Ken!
 
 **Helping businesses earn more through tech 🚀**
 
