@@ -21,7 +21,7 @@ I'm a passionate **Full-Stack Developer** who thrives on building scalable, impa
 
 ## 🚩 Flagship Project
 
-### Inventory Module @ Aspyne
+### Inventory Module @ Spyne.ai
 - Led development of an advanced inventory module.
 - Integrated **AI-powered image processing** for smart item recognition.
 - Helped streamline operations and unlock new business value.
